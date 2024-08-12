@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lho-ht!
+- 👋 Hi, I’m Lho!
 - 👀 I’m interested in web development, technology, exploring new ideas, and chess.
 - 🌱 I’m currently learning golang and three.js.
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of technology.
